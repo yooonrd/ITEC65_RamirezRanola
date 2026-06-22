@@ -1,0 +1,36 @@
+Create a Repository Using the GitHub Website
+Step 1: Sign in to GitHub
+Open your web browser.
+Go to GitHub.
+Sign in to your GitHub account.
+Step 2: Create a New Repository
+Click the "+" (Plus) icon in the upper-right corner.
+Select New repository from the dropdown menu.
+Step 3: Configure the Repository
+
+Fill in the required details:
+
+Repository Name – Enter a unique and descriptive name.
+Example: student-management-system
+Description (Optional) – Briefly describe the project.
+Visibility
+Public – Anyone can view the repository.
+Private – Only authorized collaborators can access it.
+Step 4: Initialize the Repository (Recommended)
+
+You may select the following options:
+
+Add a README file
+
+Creates a README.md file where you can describe your project.
+
+Add .gitignore
+
+Excludes unnecessary files from being tracked by Git.
+
+Choose a License
+
+Defines how others can use your project.
+Step 5: Create the Repository
+Click the Create repository button.
+GitHub will generate your repository and redirect you to its main page.
